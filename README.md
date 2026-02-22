@@ -11,7 +11,7 @@ This directory contains a standalone, modular static analysis tool for Android A
 ### Usage
 Run the scanner from the project root:
 ```bash
-python3 mastg_scanner/main.py <path_to_decompiled_apk>
+python3 main.py <path_to_decompiled_apk>
 ```
 
 ---
