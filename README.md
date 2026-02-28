@@ -6,7 +6,7 @@ This directory contains a standalone, modular static analysis tool for Android A
 
 ### Prerequisites
 - **Python 3.x**
-- **[Apktool](https://ibotpeaches.github.io/Apktool/install/)** (for decompiling APKs)
+- **[JADX](https://github.com/skylot/jadx)** (for decompiling APKs)
 
 ### Usage
 Run the scanner from the project root:
@@ -60,3 +60,4 @@ The tool provides a severity-weighted score out of 100:
 
 ---
 *Built for the OWASP MASTG security standards.*
+*Project in progress* 
