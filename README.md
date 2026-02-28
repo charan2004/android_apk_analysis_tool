@@ -59,5 +59,5 @@ The tool provides a severity-weighted score out of 100:
 - **Summary**: Provides a category-wise breakdown (Platform, Network, etc.) to identify the weakest areas of the app.
 
 ---
-*Built for the OWASP MASTG security standards.*
+*Built for the OWASP MASTG security standards.*  
 *Project in progress* 
